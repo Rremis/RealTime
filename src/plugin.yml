@@ -1,0 +1,6 @@
+name: RealTime
+main: fr.rremis.time.RealTime
+version: 0.1
+author: Rremis
+commands:
+  realtime:
